@@ -3,7 +3,7 @@
 Lecturer in Engineering (Systems-on-chip) at Sheffield Hallam University.
 Neuroscientist, engineer, and the kind of person who builds the experiment and the pipeline to analyse it.
 
-This is the source code for my personal academic website at [vtenorio-shu.github.io](https://vtenorio-shu.github.io).
+This is the source code for my personal academic website at [vtenorio-research.github.io](https://vtenorio-research.github.io).
 
 ## Research
 
