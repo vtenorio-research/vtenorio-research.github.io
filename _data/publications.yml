@@ -1,5 +1,5 @@
 # Auto-updated by scripts/fetch_publications.py
-# Last updated: 2026-08-17
+# Last updated: 2026-08-24
 
 - title: Rotational dynamics in subcortical systems during reach
   authors: Tenório, V.S.G.M., Baker, S.N.
@@ -48,6 +48,6 @@
   year: 2019
   type: journal
   tags:
-  - radiometer
   - instrumentation
+  - radiometer
   doi: 10.1109/INSCIT.2019.8868453
