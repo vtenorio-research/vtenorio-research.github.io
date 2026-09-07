@@ -1,5 +1,5 @@
 # Auto-updated by scripts/fetch_publications.py
-# Last updated: 2026-08-31
+# Last updated: 2026-09-07
 
 - title: Rotational dynamics in subcortical systems during reach
   authors: Tenório, V.S.G.M., Baker, S.N.
@@ -23,13 +23,13 @@
   - electrophysiology
   - jPCA
 - title: Functional and Effective Connectivity Characterization of Absence Seizures
-  authors: Viviane S. G. M. Tenório, J. Assis, F. M. Assis
+  authors: Viviane S. G. M. Tenório, J. Assis, F. Assis
   venue: International Conference on Systems, Signals, and Image Processing
   year: 2020
   type: conference
   tags:
-  - seizure
   - signal
+  - seizure
   doi: 10.1109/IWSSIP48289.2020.9145352
 - title: Low-Cost, Practical Data Confidentiality Support for IoT Data Sources
   authors: Viviane S. G. M. Tenório, Leonardo Souza, Maxwell Albuquerque, Rodolfo
