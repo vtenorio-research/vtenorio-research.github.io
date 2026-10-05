@@ -1,5 +1,5 @@
 # Auto-updated by scripts/fetch_publications.py
-# Last updated: 2026-09-28
+# Last updated: 2026-10-05
 
 - title: Rotational dynamics in subcortical systems during reach
   authors: Tenório, V.S.G.M., Baker, S.N.
@@ -22,14 +22,22 @@
   - motor control
   - electrophysiology
   - jPCA
+- title: Gestão integrada da coleta seletiva – uma proposta para o município de Bom
+    Jesus dos Perdões/SP
+  authors: Viviane S. G. M. Tenório, T. Malheiros
+  venue: Momentum
+  year: 2020
+  type: journal
+  tags: []
+  doi: 10.17648/1678-0795.momentum-v18n18-283
 - title: Functional and Effective Connectivity Characterization of Absence Seizures
-  authors: Viviane S. G. M. Tenório, Juliana M. de Assis, F. D. de Assis
+  authors: Viviane S. G. M. Tenório, J. D. de Assis, F. D. de Assis
   venue: International Conference on Systems, Signals, and Image Processing
   year: 2020
   type: conference
   tags:
-  - signal
   - seizure
+  - signal
   doi: 10.1109/IWSSIP48289.2020.9145352
 - title: Low-Cost, Practical Data Confidentiality Support for IoT Data Sources
   authors: Viviane S. G. M. Tenório, L. Souza, Maxwell Albuquerque, Rodolfo Marinho
