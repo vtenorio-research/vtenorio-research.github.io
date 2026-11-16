@@ -1,5 +1,5 @@
 # Auto-updated by scripts/fetch_publications.py
-# Last updated: 2026-11-09
+# Last updated: 2026-11-16
 
 - title: Rotational dynamics in subcortical systems during reach
   authors: Tenório, V.S.G.M., Baker, S.N.
@@ -32,7 +32,7 @@
   - seizure
   doi: 10.1109/IWSSIP48289.2020.9145352
 - title: Low-Cost, Practical Data Confidentiality Support for IoT Data Sources
-  authors: Viviane S. G. M. Tenório, L. Souza, Maxwell Albuquerque, Rodolfo Marinho
+  authors: Viviane S. G. M. Tenório, L. Souza, Maxwell Albuquerque, Rodolfo R. Marinho
     et al.
   venue: Brazilian Symposium on Computing System Engineering
   year: 2019
@@ -42,12 +42,12 @@
   - confidentiality
   doi: 10.1109/SBESC49506.2019.9046097
 - title: Sensitivity Analysis of Controlled-Temperature Thermoresistive-based Radiometers
-  authors: Sávio A. Oliveira, Viviane S. G. M. Tenório, R. Freire
+  authors: Savio A. Oliveira, Viviane S. G. M. Tenório, R. Freire
   venue: 2019 4th International Symposium on Instrumentation Systems, Circuits and
     Transducers (INSCIT)
   year: 2019
   type: journal
   tags:
-  - instrumentation
   - radiometer
+  - instrumentation
   doi: 10.1109/INSCIT.2019.8868453
